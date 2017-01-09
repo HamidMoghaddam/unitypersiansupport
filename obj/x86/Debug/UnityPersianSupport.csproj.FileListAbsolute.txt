@@ -1,0 +1,7 @@
+C:\Users\Hamid\Documents\Visual Studio 2015\Projects\UnityPersianSupport\obj\x86\Debug\UnityPersianSupport.csprojResolveAssemblyReference.cache
+C:\Users\Hamid\Documents\Visual Studio 2015\Projects\UnityPersianSupport\bin\Debug\UnityPersianSupport.dll
+C:\Users\Hamid\Documents\Visual Studio 2015\Projects\UnityPersianSupport\bin\Debug\UnityPersianSupport.pdb
+C:\Users\Hamid\Documents\Visual Studio 2015\Projects\UnityPersianSupport\obj\x86\Debug\UnityPersianSupport.dll
+C:\Users\Hamid\Documents\Visual Studio 2015\Projects\UnityPersianSupport\obj\x86\Debug\UnityPersianSupport.pdb
+C:\Users\Hamid\Documents\Visual Studio 2015\Projects\UnityPersianSupport\bin\Debug\UnityEngine.dll
+C:\Users\Hamid\Documents\Visual Studio 2015\Projects\UnityPersianSupport\bin\Debug\UnityEngine.UI.dll
